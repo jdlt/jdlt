@@ -1,13 +1,13 @@
 ## 👋 Kaixo!
 
-# DevSigner 
+### DevSigner 
 - Jon (he/him)
 - Spanglish
 - from Donostia
 - also in Madrid
 - Last Update: July 2025
 
-# Currently
+#### Currently
 - learning to Code
 - working on my personal website/blog
   - focused on static site generator
