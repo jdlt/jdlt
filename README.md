@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Kaixo!
 
-<!--
-**jdlt/jdlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# DevSigner 
+- Jon (he/him)
+- Spanglish
+- from Donostia
+- also in Madrid
+- Last Update: July 2025
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Currently
+- learning to Code
+- working on my personal website/blog
+  - focused on static site generator
+  - accessibility and optimization
+- researching design tokens for my TFM
+  (master's thesis) UX Design Master 
