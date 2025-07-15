@@ -1,11 +1,10 @@
-## 👋 Kaixo!
+## Kaixo!
 
 ### DevSigner 
 - Jon (he/him)
 - Spanglish
 - from Donostia
 - also in Madrid
-- Last Update: July 2025
 
 #### Currently
 - learning to Code
@@ -14,3 +13,5 @@
   - accessibility and optimization
 - researching design tokens for my TFM
   (master's thesis) UX Design Master 
+
+  ##### Last Update: July 2025
