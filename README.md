@@ -12,6 +12,6 @@
   - focused on static site generator
   - accessibility and optimization
 - researching design tokens for my TFM
-  (master's thesis) UX Design Master 
+  (master's thesis) UX Design 
 
 ##### Last Update: July 2025
