@@ -1,10 +1,9 @@
 ## Kaixo!
 
 ### DevSigner 
-- Jon (he/him)
 - Spanglish
 - from Donostia
-- also in Madrid
+  - also in Madrid
 
 #### Currently
 - learning to Code
