@@ -2,8 +2,8 @@
 
 ### DevSigner 
 - Spanglish
-- from Donostia
-  - also in Madrid
+- from the Basque Country
+  - also in Madrid (Spain)
 
 #### Currently
 - learning to Code
