@@ -8,8 +8,7 @@
 
 #### Currently
 - learning to Code
-  - exploring anything
-    (that catches my attention)
+  - from design to full stack
 - working on my personal website/blog
   - focused on static site generator
   - a11y, documentation and optimization
