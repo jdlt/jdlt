@@ -8,7 +8,7 @@
 
 #### Currently
 - researching design tokens for my TFM
-  (master's thesis) UX Design
+  - (master's thesis) UX Design
 - focusing on improving my technical skills 
  
 ##### Last Update: January 2026
